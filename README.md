@@ -1,5 +1,5 @@
-# Duomenu anlitika
+# Duomenu analitika
 
-## 1. dokumentu isdestymas
+## 1. Dokumentu isdestymas
 
-* 'Pirma_paskaita' aplanke, bandome pagrindines funkcijas su COVID duomenimis:
+* 'Pirma_paskaita' aplanke, bandome pagrindines funkcijas su COVID duomenimis
